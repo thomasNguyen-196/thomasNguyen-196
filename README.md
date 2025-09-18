@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Fullstack+Developer;Algorithm+Enthusiast;AI+Enjoyer;Let's+build+something+awesome!&center=true&width=500&height=40" alt="Typing SVG" />
 </div>
 
-> "Talk is cheap. Show me the code." - Linus Torvalds
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -27,6 +25,9 @@
 - 🤖 Interested in Agent LLM, MCP Server
 - 📊 Passionate about probability statistics, computer networks, system administration
 - 🌱 Currently a student, so I'm still exploring and learning a lot!
+
+💬 **My Favorite Quote**
+> "Talk is cheap. Show me the code." - Linus Torvalds
 
 ---
 
