@@ -1,25 +1,53 @@
+<!-- Typing effect subtle for the intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&pause=1000&center=true&vCenter=true&color=2E3A59&width=550&lines=Hi%2C+I'm+Thomas+(tung196)+from+UIT;Just+an+honest+guy+who+loves+tech+and+networks." />
+</p>
+
+<!-- Profile trophy: clean, chuyên nghiệp, không màu chói -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thomasNguyen-196&theme=algolia&margin-w=12&no-frame=true&no-bg=true" />
+</p>
+
+<!-- Stats card: "graywhite" theme, cực tinh giản -->
+<p align="center" style="margin-bottom:0px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=graywhite&hide_border=true&border_radius=10&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomasNguyen-196&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<!-- Compact language card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasNguyen-196&layout=compact&theme=graywhite&hide_border=true&langs_count=6" />
+</p>
+
+<!-- Follower & Star badge, visitor count -->
+<p align="center" style="margin-top:0px;">
+  <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&style=flat-square&color=gray" title="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/thomasNguyen-196?color=2b2d43&label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/thomasNguyen-196?color=2b2d43&label=Stars&style=social" />
+</p>
+
 # Hi 👋, I'm Thomas Nguyen (tung196)
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Fullstack+Developer;Algorithm+Enthusiast;AI+Enjoyer;Let's+build+something+awesome!&center=true&width=500&height=40" alt="Typing SVG" />
-</div>
+</p>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thomasNguyen-196&theme=radical" alt="GitHub Streak" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thomasNguyen-196&theme=darkhub&margin-w=10" alt="GitHub Trophies" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/thomasNguyen-196?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/thomasNguyen-196?style=social" alt="GitHub Stars (Public Repos)" />
-</div>
+</p>
 
 ---
 
@@ -59,12 +87,8 @@
 
 ## 📫 Contact / Connect
 
-- 📧 Email: [thomasspielberg5@gmail.com](mailto:thomasspielberg5@gmail.com)
+- 📧 Email: thomasspielberg5@gmail.com
 - 📘 Facebook: [tung196](https://www.facebook.com/quangtung.nguyen.3726613/)
 - 💬 "Chill code, say hi!"
 
----
-
-<div align="center">
-  <em>"Build to learn – share to grow – code to conquer!"</em> 🚀
-</div>
+"Build to learn – share to grow – code to conquer!" 🚀
