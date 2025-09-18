@@ -1,22 +1,26 @@
 # Hi 👋, I'm Thomas Nguyen (tung196)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Fullstack+Developer;Algorithm+Enthusiast;AI+Enjoyer;Let's+build+something+awesome!&center=true&width=500&height=40" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Fullstack+Developer;Algorithm+Enthusiast;AI+Enjoyer;Let's+build+something+awesome!&center=true&width=500&height=40" alt="Typing SVG" />
 </div>
+
+> "Talk is cheap. Show me the code." - Linus Torvalds
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thomasNguyen-196&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thomasNguyen-196&theme=radical" alt="GitHub Streak" />
 </div>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thomasNguyen-196&theme=darkhub&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thomasNguyen-196&theme=darkhub&margin-w=10" alt="GitHub Trophies" />
 </div>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blue" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/thomasNguyen-196?style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/thomasNguyen-196?style=social" alt="GitHub Stars (Public Repos)" />
+  <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/thomasNguyen-196?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/thomasNguyen-196?style=social" alt="GitHub Stars (Public Repos)" />
 </div>
 
 ---
@@ -38,31 +42,22 @@
 ![Java](https://img.shields.io/badge/-Java-b07219?logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
----
-
 ## 🎓 Academic Background
 
-- **Bachelor Student** majoring in **Computer Networks and Data Communications**
-- **University of Information Technology, VNU-HCM (UIT)**
+- Bachelor Student majoring in Computer Networks and Data Communications
+- University of Information Technology, VNU-HCM (UIT)
 - Focus areas: Network Programming, Database Systems, Machine Learning
-
----
 
 ## 🌱 Currently Learning
 
 - Machine Learning, Network Programming, Database Design
 - Agent LLM, Large Language Model applications, MCP server
 
----
-
 ## 📫 Contact / Connect
 
 - 📧 Email: [thomasspielberg5@gmail.com](mailto:thomasspielberg5@gmail.com)
-- 📘 Facebook: [tung196](https://www.facebook.com/quangtung.nguyen.3726613/)
+- 📘 Facebook: [tung196](https://www.facebook.com/tung196/)
+- 💼 LinkedIn: [tung196](https://www.linkedin.com/in/tung196/)
 - 💬 "Chill code, say hi!"
 
----
-
-<div align="center">
 "Build to learn – share to grow – code to conquer!" 🚀
-</div>
