@@ -56,5 +56,3 @@
 - 📘 Facebook: [tung196](https://www.facebook.com/tung196/)
 - 💼 LinkedIn: [tung196](https://www.linkedin.com/in/tung196/)
 - 💬 "Chill code, say hi!"
-
-"Build to learn – share to grow – code to conquer!" 🚀
