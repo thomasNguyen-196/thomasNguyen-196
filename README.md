@@ -14,10 +14,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thomasNguyen-196&theme=darkhub&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/thomasNguyen-196?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/thomasNguyen-196?style=social" alt="GitHub Stars (Public Repos)" />
@@ -55,7 +51,7 @@
 
 ## 📫 Contact / Connect
 
-- 📧 Email: [thomasspielberg5@gmail.com](mailto:thomasspielberg5@gmail.com)
+- 📧 Email: thomasspielberg5@gmail.com
 - 📘 Facebook: [tung196](https://www.facebook.com/tung196/)
 - 💼 LinkedIn: [tung196](https://www.linkedin.com/in/tung196/)
 - 💬 "Chill code, say hi!"
