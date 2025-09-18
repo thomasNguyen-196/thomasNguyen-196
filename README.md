@@ -1,33 +1,44 @@
-<h1 align="center">Hi 👋, I'm Thomas Nguyen (tung196)</h1>
+# Hi 👋, I'm Thomas Nguyen (tung196)
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Fullstack+Developer;Algorithm+Enthusiast;AI+Enjoyer;Let's+build+something+awesome!&center=true&width=500&height=40" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thomasNguyen-196&theme=darkhub&margin-w=10" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thomasNguyen-196&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thomasNguyen-196&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thomasNguyen-196&theme=darkhub&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/thomasNguyen-196?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/thomasNguyen-196?style=social" alt="GitHub Stars (Public Repos)" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
 - 💻 UIT Student | Fullstack Developer | Night Code Warrior
-- Interested in Agent LLM, MCP Server
-- Passionate about probability statistics, computer networks, system administration
-- 🛠️ Main tech stack: 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-b07219?logo=java&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- 🤖 Interested in Agent LLM, MCP Server
+- 📊 Passionate about probability statistics, computer networks, system administration
+- 🌱 Currently a student, so I'm still exploring and learning a lot!
 
-Currently a student, so I'm still exploring and learning a lot!
+---
+
+## 🛠️ Main Tech Stack
+
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-b07219?logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ---
 
@@ -48,16 +59,12 @@ Currently a student, so I'm still exploring and learning a lot!
 
 ## 📫 Contact / Connect
 
-- Email: [thomasspielberg5@gmail.com](mailto:thomasspielberg5@gmail.com)
-- Facebook: [tung196](https://www.facebook.com/quangtung.nguyen.3726613/)
-- "Chill code, say hi!"
+- 📧 Email: [thomasspielberg5@gmail.com](mailto:thomasspielberg5@gmail.com)
+- 📘 Facebook: [tung196](https://www.facebook.com/quangtung.nguyen.3726613/)
+- 💬 "Chill code, say hi!"
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blue" alt="profile visitor"/>
+  <em>"Build to learn – share to grow – code to conquer!"</em> 🚀
 </div>
-
-> *"Build to learn – share to grow – code to conquer!"* 🚀
-
----
