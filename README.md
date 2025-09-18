@@ -23,7 +23,6 @@ Hiện mình đang là sinh viên nên vẫn đang tìm tòi và học hỏi r�
 ## 📫 Liên hệ / Kết nối
 - Email: [thomasspielberg5@gmail.com](mailto:thomasspielberg5@gmail.com)
 - Facebook: [tung196](https://www.facebook.com/quangtung.nguyen.3726613/)
-- Telegram: @tung196
 - "Chill code, say hi!"
 
 ---
