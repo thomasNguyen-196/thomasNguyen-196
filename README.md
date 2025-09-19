@@ -32,26 +32,28 @@
 
 ## 🛠️ Main Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-b07219?logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,ts,react,nodejs,git,docker,linux,mysql,postgres&perline=6" />
+</p>
+
+---
 
 ## 🎓 Academic Background
 
-- Bachelor Student majoring in Computer Networks and Data Communications
-- University of Information Technology, VNU-HCM (UIT)
-- Focus areas: Network Programming, Database Systems, Machine Learning
+- Bachelor Student majoring in Computer Networks and Data Communications  
+- University of Information Technology, VNU-HCM (UIT)  
+- Focus areas: Network Programming, Database Systems, Machine Learning  
 
 ## 🌱 Currently Learning
 
-- Machine Learning, Network Programming, Database Design
-- Agent LLM, Large Language Model applications, MCP server
+- Machine Learning, Network Programming, Database Design  
+- Agent LLM, Large Language Model applications, MCP server  
+
+---
 
 ## 📫 Contact / Connect
 
-- 📧 Email: thomasspielberg5@gmail.com
-- 📘 Facebook: [tung196](https://www.facebook.com/tung196/)
-- 💼 LinkedIn: [tung196](https://www.linkedin.com/in/tung196/)
-- 💬 "Chill code, say hi!"
+- 📧 Email: thomasspielberg5@gmail.com  
+- 📘 Facebook: [tung196](https://www.facebook.com/tung196/)  
+- 💼 LinkedIn: [tung196](https://www.linkedin.com/in/tung196/)  
+- 💬 "Chill code, say hi!" 
