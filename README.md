@@ -7,13 +7,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomasNguyen-196&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/thomasNguyen-196?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/thomasNguyen-196?style=social" alt="GitHub Stars (Public Repos)" />
+  
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+<!-- Followers -->
+<img src="https://img.shields.io/github/followers/thomasNguyen-196?label=Followers&style=flat-square&color=blue" alt="Followers" />
+
 </div>
 
 ---
