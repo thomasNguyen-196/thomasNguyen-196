@@ -7,8 +7,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-<div align="center">
 
 <!-- GitHub Stats + Top Languages side by side -->
 <img src="https://github-readme-stats-thames-team.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
