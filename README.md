@@ -9,7 +9,7 @@
 <div align="center">
   
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomasNguyen-196&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=thomasNguyen-196&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
 <div align="center">
   
