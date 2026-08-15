@@ -8,10 +8,16 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=thomasNguyen-196&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-thames-team.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 <div align="center">
+<!-- Top Languages -->
+<img src="https://github-readme-stats-thames-team.vercel.app/api/top-langs/?username=thomasNguyen-196&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+<div align="center">
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=thomasNguyen-196&theme=radical&hide_border=true" alt="GitHub Streak" />
   
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blueviolet&style=flat-square" alt="Profile Views" />
