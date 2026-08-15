@@ -8,21 +8,27 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-thames-team.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
 <div align="center">
-<!-- Top Languages -->
-<img src="https://github-readme-stats-thames-team.vercel.app/api/top-langs/?username=thomasNguyen-196&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+
+<!-- GitHub Stats + Top Languages side by side -->
+<img src="https://github-readme-stats-thames-team.vercel.app/api?username=thomasNguyen-196&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats-thames-team.vercel.app/api/top-langs/?username=thomasNguyen-196&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="180" />
+
 </div>
+
 <div align="center">
+
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=thomasNguyen-196&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-<!-- Profile Views Counter -->
+
+</div>
+
+<div align="center">
+
+<!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=thomasNguyen-196&color=blueviolet&style=flat-square" alt="Profile Views" />
-<!-- Followers -->
 <img src="https://img.shields.io/github/followers/thomasNguyen-196?label=Followers&style=flat-square&color=blue" alt="Followers" />
+
 </div>
 
 ---
